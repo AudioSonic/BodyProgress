@@ -1,0 +1,21 @@
+/* Mobile First: 0–575px */
+body{
+  font-family: system-ui, sans-serif;
+  background-color: var(--color-background);
+  color: var(--primary-text);
+}
+
+/* Große Smartphones */
+@media (min-width: 576px) { }
+
+/* Tablets */
+@media (min-width: 768px) { }
+
+/* Kleine Laptops */
+@media (min-width: 1024px) { }
+
+/* Desktop */
+@media (min-width: 1280px) { }
+
+/* Große Bildschirme */
+@media (min-width: 1536px) { }

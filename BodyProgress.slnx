@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="bodyprogress.client/bodyprogress.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="BodyProgress.Server/BodyProgress.Server.csproj" />
+</Solution>

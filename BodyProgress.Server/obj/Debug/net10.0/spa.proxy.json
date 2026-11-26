@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:55640",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\GitHub\\BodyProgress\\BodyProgress.Server\\..\\bodyprogress.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
